@@ -7,3 +7,6 @@ body
 {
     font-family: 'Work Sans', sans-serif;
 }
+.jumbotron {
+    background-image: url('http://lorempixel.com/1000/500/abstract/');
+}
